@@ -3,7 +3,7 @@ num = float(input("Enter your number :- "))
 if num>0 :
     print("your number is positive ")
 else :
-    print ("your number i negative ")
+    print ("your number is negative ")
 
 # question 2-  Check if a number is even or odd
 
@@ -53,4 +53,19 @@ elif user_num>=200 and user_num<=299 :
     print("your gared is C ")
 else :
     print("You are fail , next time better luck!")
+
+'''
+REMARKS :-
+
+    1. THE SOLUTION OF QUESTION 4 IS WRONG AS THE QUESTION SUGGESTS THAT YOU HAVE TO
+    SOLVE THE ELECTRICITY BILL USING CONDITIONAL SALBS AS RATES VARY WITH UNITS 
+
+    2. FOR QUESTION NUMBER 5 THE CODE DOES LOOK CORRECT BUT FOR TEST CASES LIKE 1900 
+    IT FAILS AS THE PROGRAM OUTPUTS 1900 AS LEAP YEAR BUT EXPECTED OUTPUT IS NOT A LEAP YEAR
+
+    3. TRY WORKING ON THE LOGIC AND THINK OF THEM FROM STRONG CORNER CASES IN ORDER TO 
+    AVOID ERROR AND MISTAKES
+
+FINAL SCORE :- 8 / 10
+'''
 

@@ -12,7 +12,7 @@ print (user_age)
 num_1 = int(input("Enter your first number :- "))
 num_2 = int(input("Enter your second  number :- "))
 print("Their sum is  ",num_1+num_2)
-rint("Their difference  is  ",num_1-num_2)
+print("Their difference  is  ",num_1-num_2)
 print("Their product is  ",num_1*num_2)
 print("Their quotient is  ",num_1/num_2)
 
@@ -53,13 +53,13 @@ else:
     print("Invalid choice")
 
  # assignment 6 ( Print a formatted bio using input values.)
- user_name = input("Enter your name:- ")
- user_age = int(input("Enter your age :- "))
- user_qualification = input("Enter your qualificaton :- ")
- user_softskill = input("Enter your softskill :- ")
- user_address = input("Enter your address :- ")
- user_fathername  = input("Enter your father's name :- ")
- user_mothername  = input("Enter your mother's name :- ")
+user_name = input("Enter your name:- ")
+user_age = int(input("Enter your age :- "))
+user_qualification = input("Enter your qualificaton :- ")
+user_softskill = input("Enter your softskill :- ")
+user_address = input("Enter your address :- ")
+user_fathername  = input("Enter your father's name :- ")
+user_mothername  = input("Enter your mother's name :- ")
 print(user_name)
 print(user_age)
 print(user_qualification)
@@ -67,4 +67,18 @@ print(user_softskill)
 print(user_address)
 print(user_fathername)
 print(user_mothername)
+
+'''
+  REMARKS:
+
+  1. THERE WAS ERROR ON LINE NUMNBER 15 WHICH I HAVE CORRECTED 
+  2. THERE WAS INDENTATION ERROR FROM LINE NUMBER 56 TO 62 ALSO HAS BEEN CORRECTED 
+
+  FINAL SCORE - 9 / 10
+
+  SUGGESTION:
+
+  * KEEP AN EYE TOWARDS INDENTATION'S PROPERLY
+  * RECHECK AND RE RUN YOUR PROGRAM BEFORE SUBMITTING CODE. 
+'''
 
