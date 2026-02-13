@@ -1,6 +1,6 @@
 # assignment 1 -  Print numbers from 1 to 10.
 for i in range(1, 11):
-    Print(i)
+    print(i)
 
 #assignment 2 -Find the factorial of a number
 #num = int(input("Enter a number: "))
@@ -28,3 +28,17 @@ for i in range(1, 11):
  #   print("ypur number is not prime. ")
 
 # assignment 5-  Generate Fibonacci series up to N terms.
+
+
+'''
+REMARKS:
+
+   1. ASSIGNMENT HAS BEEN CHECKED
+   2. PROBLEM 4 THROWS INCORRECT OUTCOME FOR A GIVEN
+   INPUT 2
+   3. PROBLEM 4'S LOGIC AND IMPLEMENTATION WAS WRONG
+   4. PROBLEM 5 HAS NO SOLUTION MENTIONED
+
+FINAL SCORE: 7.5 / 10
+
+'''
