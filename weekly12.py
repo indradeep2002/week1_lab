@@ -1,5 +1,5 @@
 # Use lambda function to find square of a number.
- num = int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 
 square = lambda x: x * x
 
